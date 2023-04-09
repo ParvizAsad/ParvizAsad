@@ -40,7 +40,7 @@
      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=plastic"></a> 
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
         <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB"></a>
-        <a href="#"><img alt="Angular" src=" https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white"></a>
+        <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?&logo=angular&logoColor=white"></a>
     <!-- <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> -->
 </p>
 
